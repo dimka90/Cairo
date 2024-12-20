@@ -1,0 +1,6 @@
+contract_address: 0x02facaf0328fc023f6242c1b4e90606d12541596f0a107f261e5c6b74971cdb7
+transaction_hash: 0x00eed6c6d2b0214b49290d1b2576766ae6943b2af9fee1b531d1b2220927c6af
+
+To see deployment details, visit:
+contract: https://sepolia.starkscan.co/contract/0x2facaf0328fc023f6242c1b4e90606d12541596f0a107f261e5c6b74971cdb7
+transaction: https://sepolia.starkscan.co/tx/0xeed6c6d2b0214b49290d1b2576766ae6943b2af9fee1b531d1b2220927c6af

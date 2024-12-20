@@ -1,0 +1,9 @@
+https://starknet-sepolia.g.alchemy.com/starknet/version/rpc/v0_7/tjgIQUEkZoDp_7ACuP7nWxcwkNoWM6Je --fee-token eth --class
+-hash 0x047d43a878ce3c108e36852994c471bccc94c51344f50dc81bba3e90f6d77ac0
+command: deploy
+contract_address: 0x068c957bf4002a5f42ccd429f513180285c733bf9a4885d5e0746d4bd6af0bcc
+transaction_hash: 0x062194f4a90f5a22a6e45301369cf868e4f678aa73a6ead0fa27948274a365f6
+
+To see deployment details, visit:
+contract: https://sepolia.starkscan.co/contract/0x68c957bf4002a5f42ccd429f513180285c733bf9a4885d5e0746d4bd6af0bcc
+transaction: https://sepolia.starkscan.co/tx/0x62194f4a90f5a22a6e45301369cf868e4f678aa73a6ead0fa27948274a365f
